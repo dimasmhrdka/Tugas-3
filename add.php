@@ -67,7 +67,6 @@ if (isset($_POST["submit"])) {
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
 </head>
-
 <body class="body">
     <main id="main" class="main">
 
